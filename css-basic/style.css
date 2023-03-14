@@ -1,0 +1,25 @@
+* {
+    margin-left: 20px;
+}
+
+p.description {
+    color : rgb(36, 30, 65);
+}
+
+
+p, h1 {
+    color: blueviolet;
+    font-style: italic;
+}
+
+.nation {
+    color: darkgreen;
+}
+
+.nation {
+    color: deeppink;
+}
+
+#nation3 {
+    color: darkorange;
+}
